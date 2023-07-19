@@ -28,4 +28,5 @@ public class ShippingService {
         }
         return 0.0;
     }
+    //Testado e concluido
 }
